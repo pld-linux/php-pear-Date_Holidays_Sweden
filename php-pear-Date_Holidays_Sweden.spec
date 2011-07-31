@@ -4,12 +4,12 @@
 Summary:	%{_pearname} - Driver based class to calculate holidays in Sweden
 Summary(pl.UTF-8):	%{_pearname} - klasa do obliczania dat świąt szwedzkich
 Name:		php-pear-%{_pearname}
-Version:	0.1.2
-Release:	3
+Version:	0.1.3
+Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	7aa5de4653b9900c96eaca38f2eccbb2
+# Source0-md5:	58c8c5d4f02323b966a1843080713d4a
 URL:		http://pear.php.net/package/Date_Holidays_Sweden/
 BuildRequires:	php-pear-PEAR >= 1:1.4.0-0.b1
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
